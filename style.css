@@ -52,7 +52,10 @@ p{
 .grape{
     background-color:hsl(179, 100%, 13%);
     padding: 1.95rem;
-    
+}
+.apple,.pear,.grape{
+    width: 20rem;
+    height: 25rem;
 }
 button{
     border-radius: 100px;
